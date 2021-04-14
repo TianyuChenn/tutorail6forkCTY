@@ -1,0 +1,9 @@
+---
+title: "Tutorial6"
+author: "Xinying Xu"
+---
+```{r}
+knitr::opts_chunk$set(echo = TRUE, fig.width = 8, fig.height = 8, fig.alig = "center")
+```
+
+This is a new section
